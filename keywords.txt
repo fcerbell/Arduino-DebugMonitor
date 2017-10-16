@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For RedisWorkshop
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEBUG_PRINT	LITERAL1
+DEBUG_PRINTLN	LITERAL1
+DEBUG_STOP	LITERAL1
+PROF_START	LITERAL1
+PROF_STOP	LITERAL1
+STATS_HOOK	LITERAL1
+STATS_LOOP	LITERAL1
+STATS_PERIOD	LITERAL1
